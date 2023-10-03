@@ -16,7 +16,7 @@
 
 + **Dokumentace a prezentace:** Vytvořím podrobnou dokumentaci projektu a Wordpress stránku, která zahrnuje analýzu bezpečnostních hrozeb, návrh konfigurace, provedené konfigurace v Packet Traceru a výsledky simulací. Budu prezentovat své závěry a doporučení učitelům a spolužákům.
 
-+ **Dokumentace a prezentace:** zde jsou zátím použité zdroje: https://is.ambis.cz/th/voiwx/Bakalarska_prace_Jevgenij_Pika.pdf
++ **Zdroje a studijní materiály:** zde jsou zátím použité zdroje: https://is.ambis.cz/th/voiwx/Bakalarska_prace_Jevgenij_Pika.pdf
 
 
 
