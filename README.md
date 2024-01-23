@@ -8,8 +8,6 @@
 
 + **Návrh síťového zabezpečení:** Navrhnu síťovou konfiguraci, která zahrnuje bezpečnostní prvky a opatření pro ochranu sítě. Zahrnu konfiguraci firewallů, nastavení VPN, IDS/IPS pravidla a další bezpečnostní opatření.
 
-+ **Konfigurace v Packet Traceru:** Použiji Packet Tracer k implementaci navržené síťové konfigurace s bezpečnostními prvky. Konfiguruji firewall, VPN, alespoň jedno IDS/IPS zařízení a další bezpečnostní prvky.
-
 + **Simulace útoků:** Budu simulovat různé kybernetické útoky v rámci této sítě. Mohu použít simulovaný nástroj pro útoky (např. Metasploit) v kombinaci s Packet Tracerem. K dispozici jsou také specializované operační systémy, jako je Kali Linux, který je navržen přímo pro testování zabezpečení (obsahuje Metasploit, Wireshark, Nmap a další. Tento software umožní provádět různé typy simulací.)
 
 + **Hodnocení a analýza:** Zhodnotím účinnost bezpečnostních opatření na základě simulovaných útoků. Zjistím, jak reaguje síť a zda jsou bezpečnostní mechanismy účinné a jak fungují.
