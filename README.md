@@ -23,8 +23,6 @@ autor: Vojtěch Zedek
 
 ## Zdroje
 
-## Zdroje
-
 + [Síťové nastavení ve VirtualBoxu](https://www.nakivo.com/blog/virtualbox-network-setting-guide/)
 + [OPNsnese](https://docs.opnsense.org/index.html)
 + [Wazuh dokumentace](https://documentation.wazuh.com/current/index.html)
